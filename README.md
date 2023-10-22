@@ -10,4 +10,4 @@ You are allowed to post recommendations and additional sprites here but, you are
 If you don't have this software, refer to this link to download the portable version.
 https://drive.google.com/file/d/1-kccdu-lBe-97hA5VfQCohTx10I3QpHY/view?usp=sharing
 
-You might require to download 7zip to decompile the file.
+You might be required to download 7zip to decompile the file.
